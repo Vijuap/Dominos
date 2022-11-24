@@ -1,0 +1,3 @@
+INFO    2022-11-20 10:43:18,499 [main] baseClass.TestCase02  - Browser navigated backwards
+INFO    2022-11-20 10:43:18,531 [main] baseClass.TestCase02  - button location is found
+INFO    2022-11-20 10:43:18,561 [main] baseClass.TestCase02  - Button Css value is found
